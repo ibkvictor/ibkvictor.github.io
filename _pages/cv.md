@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng, Mechanical Engineering, Covenant Unviersity, 2021 (First Class Honors : 4.7/5.0)
+* B.Eng, Mechanical Engineering, Covenant University, 2021 (First Class Honors : 4.7/5.0)
 * High School Diploma, Science, The Ambassadors College Ota, 2010 (Cambridge Learners Award: 3.98/4.0; 5 A*s, A)
 
 Work experience
@@ -53,7 +53,7 @@ Skills
 * Digital Logic
   * VHDL (Hardware Design Language), EDA (Electronic Design Automation)
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -70,7 +70,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 Service and leadership
 ======
 * Project Coordinator NYSC Drug-Free CDS group: Renovation of a rehabilitation center.
