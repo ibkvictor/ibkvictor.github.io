@@ -13,14 +13,14 @@ As an undergraduate student, I lead a formula-student (FS UK) team, Hebron Motor
 
 Currently, I work as an NYSC research intern at the Energy and Environment Group, Covenant University under the supervision of [Prof. Olayinka Ohunakin](https://africa.berkeley.edu/people/olayinka-s-ohunakin) on "Modeling learning systems for forecasting Extreme wind speed". As an NYSC corp member, I engage in promoting a drug-free society in the Ota Community by outreach program at bus stops, primary and secondary school. I am presently serving as the project coordinator on a renovation of community rehabilitation facility.
 
-=====
+---------------
 My research interest include:
 1. Navigation in Unstructured Environment
 2. Model free reinforcement learning for control
 3. Flight dynamics
 4. Deep learning for Energy Systems 
 
-=====
+---------------
 I have completed courses in:
 1. Mechatronics Design
 2. Digital Logic
@@ -30,7 +30,7 @@ I have completed courses in:
 6. Mobile Robotics
 7. Perception for Unmanned Aerial Vehicles
 
-======
+---------------
 My skills include:
 1. Computer Programming : MATLAB, Python, C++ {11, 14, 17, 20}
 2. Robot Development: ROS
