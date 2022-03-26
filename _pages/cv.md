@@ -11,30 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng, Mechanical Engineering, Covenant Unviersity, 2021 (First Class Honors : 4.7/5.0)
+* High School Diploma, Science, The Ambassadors College Ota, 2010 (Cambridge Learners Award: 3.98/4.0; 5 A*s, A)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021: Team Lead and Electrical Team member
+  * Hebron Motorsports
+  * Duties included: Design of BSPD (Brake Speed Plausible Device) using VHDL programming and EDA tools.
+  * Supervisor: [Professor Olayinka Ohunakin](https://africa.berkeley.edu/people/olayinka-s-ohunakin)
+  
+* 2022: Research Assistant
+  * The Energy and Environment Group
+  * Duties included: Modeling of Learning systems for Extreme Wind Events.
+  * Supervisor: [Professor Olayinka Ohunakin](https://africa.berkeley.edu/people/olayinka-s-ohunakin)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021: Research Assistant
+  * Mechanical Engineering Department, Covenant University
+  * Duties included: Development, Mechanical and Morphological Characterization of AA6061 composite reinforced with Chitosan Particles.
+  * Supervisor: [Dr. Udoye Ekene](https://mce.covenantuniversity.edu.ng/images/2020/12/21/engr.-udoye-nduka.png)
+
+* 2020: Mechanical Engineering Intern
+  * Gabson Engineering Limited
+  * Duties included: Co-supervised 2 pipeline replacement projects including installation of solenoid valve system on LPG line.
+  * Supervisor: Engr. Chinoye Victor
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Programming
+  * MATLAB
+  * Python 
+  * C++ {11, 14, 17, 20}
+* Robot Development
+  * ROS
+* Machine Learning
+  * TensorFlow, PyTorch
+* Embedded System Development 
+  * ESP32, MSP432, Arduino, Raspberry pi
+* Computer Aided Design 
+  * SolidWorks and Fusion360
+* Digital Logic
+  * VHDL (Hardware Design Language), EDA (Electronic Design Automation)
 
 Publications
 ======
@@ -56,4 +73,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Project Coordinator NYSC Drug-Free CDS group: Renovation of a rehabilitation center.
