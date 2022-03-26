@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siddharth Nayak"
+title                    : "Victor Ezekiel | Personal Website"
 title_separator          : "-"
-name                     : &name "Siddharth Nayak's Website"
-description              : &description "personal description"
-url                      : https://nsidn98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Victor Ezekiel"
+description              : &description "Autonomous Systems Engineer | Aspring Aero-Astro Student"
+url                      : https://ibkvictor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nsidn98/nsidn98.github.io"
+repository               : "ibkvictor/ibkvictor.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -21,9 +21,9 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "nsidn98"
+    shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "@victorezekielib"
 facebook:
   username               :
   app_id                 :
@@ -73,22 +73,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  provider               :  #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA—163839465-1"
+    tracking_id          :
 
-google_analytics: UA—163839465-1
 
 # Site Author
 author:
-  name             : "Siddharth Nayak"
-  avatar           : "siddharth_nayak.jpg"
-  bio              : "Graduate Student at Massachusetts Institute of Technology"
-  location         : "Cambridge, MA"
+  name             : "Victor Ezekiel"
+  avatar           : "profile.png"
+  bio              : "Research Intern at Energy and Environment Group, Covenant University | Mechanical Engineering Graduate, Covenant University"
+  location         : "Lagos, Nigeria"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?hl=en&authuser=1&user=XcgZhMwAAAAJ #"http://yourfullgooglescholarurl.com"
-  email            : "sidnayak@mit.edu"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "victor.ezekiel@stu.cu.edu.ng"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nsidn98"
+  github           : "ibkvictor"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nsidn98/"
+  linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 8421999/nsidn98
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : #"@victorezekielib"
   vine             :
   weibo            :
   xing             :
@@ -256,8 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-# timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Calcutta
+timezone: Africa/Lagos # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
