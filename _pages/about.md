@@ -16,8 +16,9 @@ Currently, I work as an NYSC research intern at the Energy and Environment Group
 =====
 My research interest include:
 1. Navigation in Unstructured Environment
-2. Model Predictive Control
-3. Deep Reinforcement Learning for Control
+2. Model free reinforcement learning for control
+3. Flight dynamics
+4. Deep learning for Energy Systems 
 
 =====
 I have completed courses in:
