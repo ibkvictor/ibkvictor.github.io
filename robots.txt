@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ibkvictor.github.io/sitemap.xml
